@@ -1,11 +1,12 @@
-### Hi there, eu sou o Alberto Castro 👋 
+### Hello World, eu sou o Alberto Castro 👋 
 
-- 🌱 Atualmente estudando projetos Web pela IEP Santa Casa SJCampos ...
-- 👨‍💻 Minhas Stacks: PHP|JavaScript|Css|Html|Bootstrap|JQuery ...
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas ...
-- 👨‍🎓 Pós (Lato Sensu) em Gestão & Governança de T.I ...
+- 🌱 Atualmente estudo Desenvolvimento em Projetos Web pelo Instituto de Ensino e Pesquisa da Santa Casa SJCampos;
+- 👨‍🎓 Concluí recentemente a minha Pós (Lato Sensu) em Gestão & Governança de T.I pela Universidade Paulista;
+- 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista;
+- 👨‍💻 Minha Stack em Desenvolvimento é FULL: PHP|JavaScript|Css|Html|Bootstrap|JQuery;
 
-- ... Esse sou eu 🙋‍♂️ um cara que não para de correr atrás do conhecimento  
+
+ ... Esse sou eu 🙋‍♂️ um cara que não para de correr atrás do conhecimento.
 
  <div>
   <a href="https://github.com/AllberX">
