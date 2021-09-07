@@ -1,7 +1,7 @@
 ### Hello World 👋 
-Eu sou o Alberto Castro!  
+<marquee>Eu sou o Alberto Castro!</marquee>  
 
-- 🌱 Atualmente estudo Desenvolvimento em Projetos Web pelo Instituto de Ensino e Pesquisa da Santa Casa SJCampos;
+- 🌱 Atualmente estudo Desenvolvimento de Projetos Web pelo Instituto de Ensino e Pesquisa da Santa Casa SJCampos;
 - 👨‍🎓 Concluí recentemente a minha Pós (Lato Sensu) em Gestão & Governança de T.I pela Universidade Paulista;
 - 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista;
 - 👨‍💻 Minha Stack em Desenvolvimento é FULL: PHP|JavaScript|Css|Html|Bootstrap|JQuery;
