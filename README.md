@@ -1,5 +1,5 @@
-### Hello World 👋 
-<marquee>Eu sou o Alberto Castro!</marquee>  
+### **Hello World** 👋 
+_Eu sou Alberto Castro !  
 
 - 🌱 Atualmente estudo Desenvolvimento de Projetos Web pelo Instituto de Ensino e Pesquisa da Santa Casa SJCampos;
 - 👨‍🎓 Concluí recentemente a minha Pós (Lato Sensu) em Gestão & Governança de T.I pela Universidade Paulista;
