@@ -4,12 +4,12 @@ _Eu sou Alberto Castro_ !
 - 🌱 Atualmente estudo Desenvolvimento de Projetos Web pelo Instituto de Ensino e Pesquisa da Santa Casa SJCampos;
 - 👨‍🎓 Concluí recentemente a minha Pós (Lato Sensu) em Gestão & Governança de T.I pela Universidade Paulista;
 - 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista;
-- 👨‍💻 Minha Stack em Desenvolvimento é FULL: PHP|JavaScript|Css|Html|Bootstrap|JQuery;
+- 👨‍💻 Stack em Desenvolvimento: PHP|JavaScript|Css|Html|Bootstrap|JQuery;
 
 
  > Esse sou eu 🙋‍♂️ um cara que não para de correr atrás do conhecimento.
 
- <div>
+ <br><div>
   <a href="https://github.com/AllberX">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AllberX&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllberX&layout=compact&langs_count=16&theme=chartreuse-dark"/>
