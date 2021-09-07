@@ -1,4 +1,4 @@
-### Hello World, eu sou o Alberto Castro 👋 
+👋 ### Hello World, eu sou o Alberto Castro!  
 
 - 🌱 Atualmente estudo Desenvolvimento em Projetos Web pelo Instituto de Ensino e Pesquisa da Santa Casa SJCampos;
 - 👨‍🎓 Concluí recentemente a minha Pós (Lato Sensu) em Gestão & Governança de T.I pela Universidade Paulista;
@@ -17,12 +17,13 @@
   ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="AllberX-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="AllberX-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="AllberX-SQL" height="40" width="125" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="AllberX-PHP" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="AllberX-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="AllberX-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="AllberX-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AllberX-BST" height="40" width="125" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="AllberX-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     <img align="center" alt="AllberX-jQR" height="40" width="125" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
+  <img align="center" alt="AllberX-PHP" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+  <img align="center" alt="AllberX-SQL" height="40" width="125" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="AllberX-jQR" height="40" width="125" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 </div>
   
   
