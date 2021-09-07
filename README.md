@@ -7,7 +7,7 @@ _Eu sou Alberto Castro_ !
 - 👨‍💻 Minha Stack em Desenvolvimento é FULL: PHP|JavaScript|Css|Html|Bootstrap|JQuery;
 
 
- ... Esse sou eu 🙋‍♂️ um cara que não para de correr atrás do conhecimento.
+ > Esse sou eu 🙋‍♂️ um cara que não para de correr atrás do conhecimento.
 
  <div>
   <a href="https://github.com/AllberX">
