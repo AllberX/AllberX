@@ -1,7 +1,7 @@
 ### **Hello World** 👋 
 _Eu sou Alberto Castro_ !  
 
-- 🌱 Atualmente estudo Desenvolvimento de Sistemas Web (FullStack) no Instituto de Ensino e Pesquisa da Santa Casa SJC;
+- 🌱 Estudando Desenvolvimento de Sistemas Web (Full Stack) no Instituto de Ensino e Pesquisa da Santa Casa SJC;
 - 👨‍🎓 Concluí recentemente a minha Pós (Lato Sensu) em Gestão & Governança de T.I pela Universidade Paulista;
 - 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista;
 - 👨‍💻 My Stack: HTML | CSS | JS | PHP | SQL - Bootstrap| JQuery |Json
