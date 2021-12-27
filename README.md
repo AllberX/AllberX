@@ -37,11 +37,16 @@ _Eu sou Alberto Castro_ !
    
    ##
    
-   </div>
+</div>
 
 ## Meus repositórios favoritos
 
 <div width="100%" align="center">
+
 [![Readme Card](https://github.com/AllberX/Curso-Desenvolvimento-Web/blob/main/README.md)](https://github.com/AllberX/Curso-Desenvolvimento-Web)
 [![Readme Card](https://github.com/AllberX/Meu_Portfolio#readme)](https://github.com/AllberX/Meu_Portfolio)
+
+<div width="100%" align="center">
+  <a href="https://github.com/AllberX/Curso-Desenvolvimento-Web">
+</div>
 </div>
