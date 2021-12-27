@@ -34,3 +34,14 @@ _Eu sou Alberto Castro_ !
  <a href="https://www.youtube.com/channel/UCHQFhmUvPmasvEBKBTFUXuQ/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href = "mailto:allber.analista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/albertocastrosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
+   ##
+   
+   </div>
+
+## Meus repositórios favoritos
+
+<div width="100%" align="center">
+[![Readme Card](https://github.com/AllberX/Curso-Desenvolvimento-Web/blob/main/README.md)](https://github.com/AllberX/Curso-Desenvolvimento-Web)
+[![Readme Card](https://github.com/AllberX/Meu_Portfolio#readme)](https://github.com/AllberX/Meu_Portfolio)
+</div>
