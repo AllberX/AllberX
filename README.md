@@ -49,4 +49,3 @@ _Eu sou Alberto Castro_ !
 <div width="100%" align="center">
   <a href="https://github.com/AllberX/Curso-Desenvolvimento-Web">
 </div>
-</div>
