@@ -2,8 +2,9 @@
 _Eu sou Alberto Castro_!
 
 - Pós Graduado: Lato Sensu em Gestão & Governança de T.I pela Universidade Paulista  
-- Graduado: Análise e Desenvolvimento de Sistemas pela Universidade Paulista  
+- Graduado: Análise e Desenvolvimento de Sistemas pela Universidade Paulista
 - My Stack: HTML | CSS | JS | PHP | SQL  
+- Certificado: CISCO | ORACLE OCI   
 
 > Esse sou eu 🙋‍♂️ um cara que não para de correr atrás do conhecimento.
 
