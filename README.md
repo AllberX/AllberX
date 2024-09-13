@@ -1,8 +1,8 @@
 ### **Hello World** 👋 
 _Eu sou Alberto Castro_!
 
-- Formado: Pós Graduação (Lato Sensu) em Gestão & Governança de T.I pela Universidade Paulista  
-- Formado: Análise e Desenvolvimento de Sistemas pela Universidade Paulista  
+- Pós Graduado: Lato Sensu em Gestão & Governança de T.I pela Universidade Paulista  
+- Graduado: Análise e Desenvolvimento de Sistemas pela Universidade Paulista  
 - My Stack: HTML | CSS | JS | PHP | SQL  
 
 > Esse sou eu 🙋‍♂️ um cara que não para de correr atrás do conhecimento.
